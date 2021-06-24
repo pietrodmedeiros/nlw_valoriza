@@ -35,6 +35,7 @@ export class CreateCompliments1624557187967 implements MigrationInterface {
                     }
                 ],
 
+                
                 foreignKeys: [
                     {
                         name: "FKUserSenderCompliments",
