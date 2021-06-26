@@ -13,7 +13,7 @@ class ListUserSendComplimentsService {
                 user_sender: user_id
             }
         })
-        return compliments
+        return compliments   
     }
 }
 
